@@ -1,8 +1,7 @@
 # eyes-Exercise
 
 The eyes will follow the mouse pointer as you move it. Try it!
-
-![eyes](https://user-images.githubusercontent.com/76454035/112880698-00e6a680-9088-11eb-84be-b4f33f68c906.gif)
+src="https://media.giphy.com/media/XFvmpLuiprh9IebNs2/giphy.gif"
 
 # Installation
 Download the Zip file on this link to get the files for the Eye Exercise.
